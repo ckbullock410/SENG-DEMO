@@ -1,2 +1,3 @@
 
-edit#2 conflict#1
+File#1
+conflict#2
